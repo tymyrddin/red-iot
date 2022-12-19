@@ -1,4 +1,4 @@
-Internet of Things
+A vast amphibious wilderness of swamp
 ==============================================
 
 Identify, assess, and exploit basic and complex security mechanisms in IoT devices.
