@@ -8,11 +8,6 @@ Identify, assess, and exploit basic and complex security mechanisms in IoT devic
 
 ----
 
-.. image:: _static/images/iot-books.png
-  :alt: Useful books
-
-----
-
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -53,7 +48,7 @@ Identify, assess, and exploit basic and complex security mechanisms in IoT devic
 
    docs/ecosystem/README.md
 
-.. toctree::
-   :caption: Links
+----
 
-   Red Team <https://red.tymyrddin.dev/>
+.. image:: _static/images/iot-books.png
+  :alt: Useful books
