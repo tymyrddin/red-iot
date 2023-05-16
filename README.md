@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/red-iot/badge/?version=latest)](https://red.tymyrddin.dev/projects/iot/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7fbc0860-2d86-412b-8768-9202180fca57/deploy-status)](https://app.netlify.com/sites/cheery-crepe-113969/deploys)
 
 ## Requirements
 
